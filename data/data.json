@@ -1,0 +1,238 @@
+{
+	"introduction": {
+		"starting": "Hi, my name is",
+		"nameText": "Pawan Kumar.",
+		"preTypewriter": "I'm a",
+		"typewriter": [
+			"Software Engineer",
+			"Full Stack Developer",
+			"Tech Enthusiast"
+		],
+		"description": "I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I'm building Maintainable, Scalable and Reliable applications at ",
+		"company": "Delta Force",
+		"companyUrl": "https://delta.nitt.edu/",
+		"functionButton": "Checkout my Resume"
+	},
+	"aboutMe": {
+		"title": "About Me",
+		"content": [
+			"I'm a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I'm building Maintainable, Scalable and Reliable applications at Oracle."
+		],
+		"recentTechnologies": [
+			"Kotlin",
+			"React",
+			"GoLang",
+			"GCP",
+			"OCI",
+			"Docker",
+			"Kubernetes",
+			"CI/CD",
+			"Git",
+			"MySQL",
+			"MongoDB",
+			"Redis"
+		]
+	},
+	"experience": {
+		"title": "Where I've Worked",
+		"experiences": [
+			{
+				"company": "Oracle",
+				"companyUrl": "https://www.oracle.com/",
+				"role": "Software Engineer",
+				"startDate": "May 2025",
+				"endDate": "July 2025",
+				"description": [
+					"Built the initial Proof of Concept for AutoDQ, an automated data-quality validation system.",
+					"Developed a FastAPI backend, real-time React dashboard, and integrated Llama 3.1 for intelligent testing.",
+					"Improved data reliability by delivering a pluggable service for seamless integration across enterprise systems."
+				]
+			},
+			{
+				"company": "Nagent AI",
+				"companyUrl": "https://nagent.ai/",
+				"role": "Software Developer Intern",
+				"startDate": "Oct 2024",
+				"endDate": "Mar 2025",
+				"description": [
+					"Built AI-driven workflows for ad-video generation, pitch decks, and business plans.",
+					"Developed a scalable frontend using React and Turbo (monorepo) with a robust Node.js + Express backend.",
+					"Deployed and managed cloud infrastructure on GCP while optimizing SQL databases for workflow data."
+				]
+			},
+			{
+				"company": "Delta Force",
+				"companyUrl": "https://delta.nitt.edu/",
+				"role": "Software Engineer",
+				"startDate": "Sept 2023",
+				"endDate": "Present",
+				"description": [
+					"Developing web and app solutions for NIT Trichy’s official coding and app-dev team.",
+					"Designed and deployed production-ready platforms used across college events, fests, and admin systems.",
+					"Delivered applications serving 10,000+ annual users with strong reliability and performance."
+				]
+			}
+		]
+	},
+	"projects": {
+		"title": "Projects",
+		"projects": [
+			{
+				"name": "Festember App 24'",
+				"type": "Cultural Fest Companion App",
+				"imageSrc": "/assets/images/projects/festember.png",
+				"description": "A cross-platform Kotlin Multiplatform app built with Ktor, Koin, Realm, and Voyager. Implemented DAuth authentication and integrated the Golang Fest API, scaling to 1500+ users in 4 days with dynamic CMS-driven content delivery.",
+				"stack": [
+					"Kotlin Multiplatform",
+					"Ktor",
+					"Koin",
+					"Realm",
+					"Voyager"
+				],
+				"links": [
+					{
+						"name": "External",
+						"url": "https://play.google.com/store/apps/details?id=com.festember.app"
+					}
+				]
+			},
+			{
+				"name": "TimeWarp Game",
+				"type": "Puzzle Adventure Game",
+				"imageSrc": "/assets/images/projects/timewarp.png",
+				"description": "A puzzle-adventure game where players solve challenges across pixelated worlds using an in-game code editor. Contributed to game design, UI, and full-stack development, leading to 300+ players in a ₹25,000 prize event.",
+				"stack": [
+					"React",
+					"Redux",
+					"Phaser.js",
+					"Pydiode",
+					"Spring Boot (Kotlin)",
+					"MongoDB",
+					"Docker",
+					"Tiled",
+					"Nginx",
+					"Vite"
+				],
+				"links": [
+					{
+						"name": "External",
+						"url": "https://"
+					}
+				]
+			},
+			{
+				"name": "Superhero Call Center",
+				"type": "Superhero Resource Management Game",
+				"imageSrc": "/assets/images/projects/superhero.png",
+				"description": "A real-time superhero resource management game featuring a 3D interactive city map. Built using Golang, MongoDB, Redis, React, WebSocket, Three.js, and Gemini AI. Implemented real-time crime events, strategic lineup management, and a dynamic crime bar system with optimized backend calculations and smooth user interaction.",
+				"stack": [
+					"Golang",
+					"MongoDB",
+					"Redis",
+					"React",
+					"WebSocket",
+					"Three.js"
+				],
+				"links": [
+					{
+						"name": "External",
+						"url": "https://"
+					}
+				]
+			}
+		]
+	},
+	"otherProjects": {
+		"title": "Other Noteworthy Projects",
+		"viewArchiveText": "view the archive",
+		"otherProjects": [
+			{
+				"title": "Pragyan App",
+				"description": "A Kotlin Multiplatform Android app using Ktor, Voyager, Koin, and Realm for a fast, offline-ready fest companion experience.",
+				"stack": [
+					"Kotlin Multiplatform",
+					"Ktor",
+					"Voyager",
+					"Koin",
+					"Realm"
+				],
+				"links": [
+					{
+						"name": "Github",
+						"url": "https://github.com/"
+					}
+				]
+			},
+			{
+				"title": "Fluentify",
+				"description": "A MERN-based language learning platform with WebRTC-powered real-time video sessions for immersive speaking practice.",
+				"stack": [
+					"React",
+					"Node.js",
+					"Express",
+					"MongoDB",
+					"WebRTC"
+				],
+				"links": [
+					{
+						"name": "Github",
+						"url": "https://github.com/pawannitt-26/Fluentify-Frontend"
+					}
+				]
+			},
+			{
+				"title": "AcreWise",
+				"description": "A blockchain-powered RoW management tool with interactive mapping, smart route planning, and transparent land data access.",
+				"stack": [
+					"React",
+					"Blockchain",
+					"Node.js",
+					"Express"
+				],
+				"links": [
+					{
+						"name": "Github",
+						"url": "https://github.com/pawannitt-26/Acrewise"
+					}
+				]
+			},
+			{
+				"title": "Insight-AI",
+				"description": "An AI-driven research tool enabling automated interviews, real-time chat insights, and analytics dashboards.",
+				"stack": [
+					"React",
+					"TypeScript",
+					"Zustand",
+					"Socket.io"
+				],
+				"links": [
+					{
+						"name": "Github",
+						"url": "https://github.com/pawannitt-26/InsightAI"
+					}
+				]
+			},
+			{
+				"title": "SurgiAssist-AI",
+				"description": "An agentic AI system that analyzes OR audio to auto-update checklists and generate real-time surgical summaries.",
+				"stack": [
+					"Python",
+					"Whisper",
+					"FastAPI",
+					"React"
+				],
+				"links": [
+					{
+						"name": "Github",
+						"url": "https://github.com/pawannitt-26/SurgiAssist-AI"
+					}
+				]
+			}
+		]
+	},
+	"getInTouch": {
+		"preTitle": "What’s Next?",
+		"title": "Get in Touch.",
+		"content": "I’m looking for any new opportunities, my inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!"
+	}
+}
